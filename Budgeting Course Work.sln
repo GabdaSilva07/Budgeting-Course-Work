@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budgeting Course Work", "Budgeting Course Work.csproj", "{5B56A659-2ACC-4ED0-A315-82A1AE7497EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B56A659-2ACC-4ED0-A315-82A1AE7497EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B56A659-2ACC-4ED0-A315-82A1AE7497EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B56A659-2ACC-4ED0-A315-82A1AE7497EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B56A659-2ACC-4ED0-A315-82A1AE7497EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDBE30F7-EEC6-4BD7-A9E5-11467DB27A0D}
+	EndGlobalSection
+EndGlobal

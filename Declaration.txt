@@ -1,0 +1,27 @@
+Declaration
+-----------
+
+I, Gabriel da Silva (N0726678), hereby declare that:
+
+ * I am the sole author of the submitted program code and associated report, apart from the code referenced below.
+
+ * I have read the "Referencing, Plagiarism and Collusion" section of the assessment specification.
+
+ * I am aware of the University's rules on plagiarism and collusion, and I understand that, if I am found to have broken these rules, this will be treated as Academic Misconduct and dealt with accordingly.
+
+ * I understand that it is entirely my responsibility to ensure that I submit my full and complete coursework, and that any missing parts submitted after the deadline will be disregarded.
+
+ * I understand that the above rules apply even in the eventuality of computer failures or other IT problems.
+
+References
+----------
+
+I have adapted/reused the following pieces of code from the following sources:
+
+[1] In file UserAccount.cs:
+  Validating Time
+  https://stackoverflow.com/questions/371987/how-to-validate-a-datetime-in-c
+
+[2] In file UserAccount.cs:
+  Validating Email
+  https://stackoverflow.com/questions/1365407/c-sharp-code-to-validate-email-address
